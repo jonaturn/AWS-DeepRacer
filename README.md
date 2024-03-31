@@ -1,1 +1,2 @@
-Here's my team's approach to the AWS Deepracer Hackathon organised by NUS IEEE.
+Here's my team's approach to the AWS Deepracer Hackathon organized by NUS IEEE.
+
